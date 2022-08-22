@@ -216,36 +216,40 @@ Partial Class Form1
         'PictureBox1
         '
         Me.PictureBox1.Image = Global.Planet_Dex.My.Resources.Resources.Pluto_whole_color
-        Me.PictureBox1.Location = New System.Drawing.Point(173, 397)
+        Me.PictureBox1.Location = New System.Drawing.Point(672, 397)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(116, 67)
+        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
         Me.PictureBox1.TabIndex = 20
         Me.PictureBox1.TabStop = False
         '
         'saturnPictureBox
         '
         Me.saturnPictureBox.Image = Global.Planet_Dex.My.Resources.Resources._1920x1080
-        Me.saturnPictureBox.Location = New System.Drawing.Point(672, 398)
+        Me.saturnPictureBox.Location = New System.Drawing.Point(513, 399)
         Me.saturnPictureBox.Name = "saturnPictureBox"
         Me.saturnPictureBox.Size = New System.Drawing.Size(116, 67)
+        Me.saturnPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
         Me.saturnPictureBox.TabIndex = 18
         Me.saturnPictureBox.TabStop = False
         '
         'MercuryPictureBox
         '
         Me.MercuryPictureBox.Image = Global.Planet_Dex.My.Resources.Resources.PFQ97KNjjTebMzenT3GeKd_1200_80
-        Me.MercuryPictureBox.Location = New System.Drawing.Point(513, 398)
+        Me.MercuryPictureBox.Location = New System.Drawing.Point(344, 399)
         Me.MercuryPictureBox.Name = "MercuryPictureBox"
         Me.MercuryPictureBox.Size = New System.Drawing.Size(116, 67)
+        Me.MercuryPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
         Me.MercuryPictureBox.TabIndex = 16
         Me.MercuryPictureBox.TabStop = False
         '
         'neptunePictureBox
         '
         Me.neptunePictureBox.Image = Global.Planet_Dex.My.Resources.Resources.maxresdefault
-        Me.neptunePictureBox.Location = New System.Drawing.Point(344, 398)
+        Me.neptunePictureBox.Location = New System.Drawing.Point(173, 399)
         Me.neptunePictureBox.Name = "neptunePictureBox"
         Me.neptunePictureBox.Size = New System.Drawing.Size(116, 67)
+        Me.neptunePictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
         Me.neptunePictureBox.TabIndex = 14
         Me.neptunePictureBox.TabStop = False
         '
@@ -255,6 +259,7 @@ Partial Class Form1
         Me.VenusPicture.Location = New System.Drawing.Point(12, 397)
         Me.VenusPicture.Name = "VenusPicture"
         Me.VenusPicture.Size = New System.Drawing.Size(116, 67)
+        Me.VenusPicture.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
         Me.VenusPicture.TabIndex = 2
         Me.VenusPicture.TabStop = False
         '
@@ -320,7 +325,7 @@ Partial Class Form1
         Me.Controls.Add(Me.VenusButton)
         Me.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Planet Dex"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.saturnPictureBox, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.MercuryPictureBox, System.ComponentModel.ISupportInitialize).EndInit()
