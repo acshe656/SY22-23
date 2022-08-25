@@ -1,0 +1,13 @@
+C:\Users\acshe656\Documents\SY22-23\VB\NewProject8.23.22\NewProject8.23.22\bin\Debug\NewProject8.23.22.exe.config
+C:\Users\acshe656\Documents\SY22-23\VB\NewProject8.23.22\NewProject8.23.22\bin\Debug\NewProject8.23.22.exe
+C:\Users\acshe656\Documents\SY22-23\VB\NewProject8.23.22\NewProject8.23.22\bin\Debug\NewProject8.23.22.pdb
+C:\Users\acshe656\Documents\SY22-23\VB\NewProject8.23.22\NewProject8.23.22\bin\Debug\NewProject8.23.22.xml
+C:\Users\acshe656\Documents\SY22-23\VB\NewProject8.23.22\NewProject8.23.22\obj\Debug\NewProject8.23.22.vbproj.AssemblyReference.cache
+C:\Users\acshe656\Documents\SY22-23\VB\NewProject8.23.22\NewProject8.23.22\obj\Debug\NewProject8.23.22.vbproj.SuggestedBindingRedirects.cache
+C:\Users\acshe656\Documents\SY22-23\VB\NewProject8.23.22\NewProject8.23.22\obj\Debug\NewProject8._23._22.Form1.resources
+C:\Users\acshe656\Documents\SY22-23\VB\NewProject8.23.22\NewProject8.23.22\obj\Debug\NewProject8._23._22.Resources.resources
+C:\Users\acshe656\Documents\SY22-23\VB\NewProject8.23.22\NewProject8.23.22\obj\Debug\NewProject8.23.22.vbproj.GenerateResource.cache
+C:\Users\acshe656\Documents\SY22-23\VB\NewProject8.23.22\NewProject8.23.22\obj\Debug\NewProject8.23.22.vbproj.CoreCompileInputs.cache
+C:\Users\acshe656\Documents\SY22-23\VB\NewProject8.23.22\NewProject8.23.22\obj\Debug\NewProject8.23.22.exe
+C:\Users\acshe656\Documents\SY22-23\VB\NewProject8.23.22\NewProject8.23.22\obj\Debug\NewProject8.23.22.xml
+C:\Users\acshe656\Documents\SY22-23\VB\NewProject8.23.22\NewProject8.23.22\obj\Debug\NewProject8.23.22.pdb
