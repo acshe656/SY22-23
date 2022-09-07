@@ -23,12 +23,12 @@ Partial Class Form1
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.PoundButton = New System.Windows.Forms.Button()
-        Me.UStxtbx = New System.Windows.Forms.TextBox()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.convertedtxtbx = New System.Windows.Forms.TextBox()
-        Me.CanadianDollarButton = New System.Windows.Forms.Button()
+        Me.CDollarButton = New System.Windows.Forms.Button()
         Me.SwissButton = New System.Windows.Forms.Button()
         Me.euroButton = New System.Windows.Forms.Button()
-        Me.pesoButton = New System.Windows.Forms.Button()
+        Me.PesoButton = New System.Windows.Forms.Button()
         Me.YenButton = New System.Windows.Forms.Button()
         Me.PictureBox6 = New System.Windows.Forms.PictureBox()
         Me.PictureBox5 = New System.Windows.Forms.PictureBox()
@@ -55,12 +55,12 @@ Partial Class Form1
         Me.PoundButton.Text = "British Pound"
         Me.PoundButton.UseVisualStyleBackColor = True
         '
-        'UStxtbx
+        'TextBox1
         '
-        Me.UStxtbx.Location = New System.Drawing.Point(256, 236)
-        Me.UStxtbx.Name = "UStxtbx"
-        Me.UStxtbx.Size = New System.Drawing.Size(124, 27)
-        Me.UStxtbx.TabIndex = 7
+        Me.TextBox1.Location = New System.Drawing.Point(256, 236)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(124, 27)
+        Me.TextBox1.TabIndex = 7
         '
         'convertedtxtbx
         '
@@ -69,14 +69,14 @@ Partial Class Form1
         Me.convertedtxtbx.Size = New System.Drawing.Size(175, 27)
         Me.convertedtxtbx.TabIndex = 8
         '
-        'CanadianDollarButton
+        'CDollarButton
         '
-        Me.CanadianDollarButton.Location = New System.Drawing.Point(361, 168)
-        Me.CanadianDollarButton.Name = "CanadianDollarButton"
-        Me.CanadianDollarButton.Size = New System.Drawing.Size(167, 24)
-        Me.CanadianDollarButton.TabIndex = 9
-        Me.CanadianDollarButton.Text = "Canadian Dollar"
-        Me.CanadianDollarButton.UseVisualStyleBackColor = True
+        Me.CDollarButton.Location = New System.Drawing.Point(361, 168)
+        Me.CDollarButton.Name = "CDollarButton"
+        Me.CDollarButton.Size = New System.Drawing.Size(167, 24)
+        Me.CDollarButton.TabIndex = 9
+        Me.CDollarButton.Text = "Canadian Dollar"
+        Me.CDollarButton.UseVisualStyleBackColor = True
         '
         'SwissButton
         '
@@ -96,14 +96,14 @@ Partial Class Form1
         Me.euroButton.Text = "Euro"
         Me.euroButton.UseVisualStyleBackColor = True
         '
-        'pesoButton
+        'PesoButton
         '
-        Me.pesoButton.Location = New System.Drawing.Point(361, 295)
-        Me.pesoButton.Name = "pesoButton"
-        Me.pesoButton.Size = New System.Drawing.Size(167, 24)
-        Me.pesoButton.TabIndex = 12
-        Me.pesoButton.Text = "Pesos"
-        Me.pesoButton.UseVisualStyleBackColor = True
+        Me.PesoButton.Location = New System.Drawing.Point(361, 295)
+        Me.PesoButton.Name = "PesoButton"
+        Me.PesoButton.Size = New System.Drawing.Size(167, 24)
+        Me.PesoButton.TabIndex = 12
+        Me.PesoButton.Text = "Pesos"
+        Me.PesoButton.UseVisualStyleBackColor = True
         '
         'YenButton
         '
@@ -116,6 +116,7 @@ Partial Class Form1
         '
         'PictureBox6
         '
+        Me.PictureBox6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.PictureBox6.Image = Global.moneyproject.My.Resources.Resources.Switzimages__1_
         Me.PictureBox6.Location = New System.Drawing.Point(644, 12)
         Me.PictureBox6.Name = "PictureBox6"
@@ -196,17 +197,18 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(10.0!, 17.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.Color.Tan
         Me.ClientSize = New System.Drawing.Size(874, 478)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.PictureBox6)
         Me.Controls.Add(Me.YenButton)
-        Me.Controls.Add(Me.pesoButton)
+        Me.Controls.Add(Me.PesoButton)
         Me.Controls.Add(Me.euroButton)
         Me.Controls.Add(Me.SwissButton)
-        Me.Controls.Add(Me.CanadianDollarButton)
+        Me.Controls.Add(Me.CDollarButton)
         Me.Controls.Add(Me.convertedtxtbx)
-        Me.Controls.Add(Me.UStxtbx)
+        Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.PoundButton)
         Me.Controls.Add(Me.PictureBox5)
         Me.Controls.Add(Me.PictureBox4)
@@ -214,6 +216,7 @@ Partial Class Form1
         Me.Controls.Add(Me.PictureBox2)
         Me.Controls.Add(Me.PictureBox1)
         Me.Font = New System.Drawing.Font("SimSun", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.Name = "Form1"
         Me.Text = "Form1"
         CType(Me.PictureBox6, System.ComponentModel.ISupportInitialize).EndInit()
@@ -233,12 +236,12 @@ Partial Class Form1
     Friend WithEvents PictureBox4 As PictureBox
     Friend WithEvents PictureBox5 As PictureBox
     Friend WithEvents PoundButton As Button
-    Friend WithEvents UStxtbx As TextBox
+    Friend WithEvents TextBox1 As TextBox
     Friend WithEvents convertedtxtbx As TextBox
-    Friend WithEvents CanadianDollarButton As Button
+    Friend WithEvents CDollarButton As Button
     Friend WithEvents SwissButton As Button
     Friend WithEvents euroButton As Button
-    Friend WithEvents pesoButton As Button
+    Friend WithEvents PesoButton As Button
     Friend WithEvents YenButton As Button
     Friend WithEvents PictureBox6 As PictureBox
     Friend WithEvents Label1 As Label

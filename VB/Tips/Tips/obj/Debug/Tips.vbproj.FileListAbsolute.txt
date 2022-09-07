@@ -1,0 +1,13 @@
+C:\Users\acshe656\Documents\SY22-23\VB\Tips\Tips\bin\Debug\Tips.exe.config
+C:\Users\acshe656\Documents\SY22-23\VB\Tips\Tips\bin\Debug\Tips.exe
+C:\Users\acshe656\Documents\SY22-23\VB\Tips\Tips\bin\Debug\Tips.pdb
+C:\Users\acshe656\Documents\SY22-23\VB\Tips\Tips\bin\Debug\Tips.xml
+C:\Users\acshe656\Documents\SY22-23\VB\Tips\Tips\obj\Debug\Tips.vbproj.AssemblyReference.cache
+C:\Users\acshe656\Documents\SY22-23\VB\Tips\Tips\obj\Debug\Tips.vbproj.SuggestedBindingRedirects.cache
+C:\Users\acshe656\Documents\SY22-23\VB\Tips\Tips\obj\Debug\Tips.Form1.resources
+C:\Users\acshe656\Documents\SY22-23\VB\Tips\Tips\obj\Debug\Tips.Resources.resources
+C:\Users\acshe656\Documents\SY22-23\VB\Tips\Tips\obj\Debug\Tips.vbproj.GenerateResource.cache
+C:\Users\acshe656\Documents\SY22-23\VB\Tips\Tips\obj\Debug\Tips.vbproj.CoreCompileInputs.cache
+C:\Users\acshe656\Documents\SY22-23\VB\Tips\Tips\obj\Debug\Tips.exe
+C:\Users\acshe656\Documents\SY22-23\VB\Tips\Tips\obj\Debug\Tips.xml
+C:\Users\acshe656\Documents\SY22-23\VB\Tips\Tips\obj\Debug\Tips.pdb

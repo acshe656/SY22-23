@@ -1,0 +1,13 @@
+C:\Users\acshe656\Documents\SY22-23\VB\moneyproject\moneyproject\obj\Debug\moneyproject.vbproj.AssemblyReference.cache
+C:\Users\acshe656\Documents\SY22-23\VB\moneyproject\moneyproject\obj\Debug\moneyproject.vbproj.SuggestedBindingRedirects.cache
+C:\Users\acshe656\Documents\SY22-23\VB\moneyproject\moneyproject\obj\Debug\moneyproject.Form1.resources
+C:\Users\acshe656\Documents\SY22-23\VB\moneyproject\moneyproject\obj\Debug\moneyproject.Resources.resources
+C:\Users\acshe656\Documents\SY22-23\VB\moneyproject\moneyproject\obj\Debug\moneyproject.vbproj.GenerateResource.cache
+C:\Users\acshe656\Documents\SY22-23\VB\moneyproject\moneyproject\obj\Debug\moneyproject.vbproj.CoreCompileInputs.cache
+C:\Users\acshe656\Documents\SY22-23\VB\moneyproject\moneyproject\bin\Debug\moneyproject.exe.config
+C:\Users\acshe656\Documents\SY22-23\VB\moneyproject\moneyproject\bin\Debug\moneyproject.exe
+C:\Users\acshe656\Documents\SY22-23\VB\moneyproject\moneyproject\bin\Debug\moneyproject.pdb
+C:\Users\acshe656\Documents\SY22-23\VB\moneyproject\moneyproject\bin\Debug\moneyproject.xml
+C:\Users\acshe656\Documents\SY22-23\VB\moneyproject\moneyproject\obj\Debug\moneyproject.exe
+C:\Users\acshe656\Documents\SY22-23\VB\moneyproject\moneyproject\obj\Debug\moneyproject.xml
+C:\Users\acshe656\Documents\SY22-23\VB\moneyproject\moneyproject\obj\Debug\moneyproject.pdb

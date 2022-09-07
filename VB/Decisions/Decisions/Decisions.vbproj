@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1058A444-C02D-4B60-84DD-FAE6AA14044F}</ProjectGuid>
+    <ProjectGuid>{54DCC39C-1A04-4F87-8901-37CC14E4996E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>moneyproject.My.MyApplication</StartupObject>
-    <RootNamespace>moneyproject</RootNamespace>
-    <AssemblyName>moneyproject</AssemblyName>
+    <StartupObject>Decisions.My.MyApplication</StartupObject>
+    <RootNamespace>Decisions</RootNamespace>
+    <AssemblyName>Decisions</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>moneyproject.xml</DocumentationFile>
+    <DocumentationFile>Decisions.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>moneyproject.xml</DocumentationFile>
+    <DocumentationFile>Decisions.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
