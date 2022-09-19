@@ -159,7 +159,7 @@ Partial Class Form1
         Me.Button1.BackColor = System.Drawing.Color.DarkSeaGreen
         Me.Button1.Location = New System.Drawing.Point(275, 44)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(153, 34)
+        Me.Button1.Size = New System.Drawing.Size(169, 34)
         Me.Button1.TabIndex = 11
         Me.Button1.Text = "Add Sales Tax"
         Me.Button1.UseVisualStyleBackColor = False

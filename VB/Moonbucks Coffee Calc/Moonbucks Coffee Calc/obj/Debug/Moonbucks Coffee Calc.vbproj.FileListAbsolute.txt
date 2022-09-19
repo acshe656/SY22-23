@@ -1,0 +1,13 @@
+C:\Users\acshe656\Documents\SY22-23\VB\Moonbucks Coffee Calc\Moonbucks Coffee Calc\bin\Debug\Moonbucks Coffee Calc.exe.config
+C:\Users\acshe656\Documents\SY22-23\VB\Moonbucks Coffee Calc\Moonbucks Coffee Calc\bin\Debug\Moonbucks Coffee Calc.exe
+C:\Users\acshe656\Documents\SY22-23\VB\Moonbucks Coffee Calc\Moonbucks Coffee Calc\bin\Debug\Moonbucks Coffee Calc.pdb
+C:\Users\acshe656\Documents\SY22-23\VB\Moonbucks Coffee Calc\Moonbucks Coffee Calc\bin\Debug\Moonbucks Coffee Calc.xml
+C:\Users\acshe656\Documents\SY22-23\VB\Moonbucks Coffee Calc\Moonbucks Coffee Calc\obj\Debug\Moonbucks Coffee Calc.vbproj.AssemblyReference.cache
+C:\Users\acshe656\Documents\SY22-23\VB\Moonbucks Coffee Calc\Moonbucks Coffee Calc\obj\Debug\Moonbucks Coffee Calc.vbproj.SuggestedBindingRedirects.cache
+C:\Users\acshe656\Documents\SY22-23\VB\Moonbucks Coffee Calc\Moonbucks Coffee Calc\obj\Debug\Moonbucks_Coffee_Calc.Form1.resources
+C:\Users\acshe656\Documents\SY22-23\VB\Moonbucks Coffee Calc\Moonbucks Coffee Calc\obj\Debug\Moonbucks_Coffee_Calc.Resources.resources
+C:\Users\acshe656\Documents\SY22-23\VB\Moonbucks Coffee Calc\Moonbucks Coffee Calc\obj\Debug\Moonbucks Coffee Calc.vbproj.GenerateResource.cache
+C:\Users\acshe656\Documents\SY22-23\VB\Moonbucks Coffee Calc\Moonbucks Coffee Calc\obj\Debug\Moonbucks Coffee Calc.vbproj.CoreCompileInputs.cache
+C:\Users\acshe656\Documents\SY22-23\VB\Moonbucks Coffee Calc\Moonbucks Coffee Calc\obj\Debug\Moonbucks Coffee Calc.exe
+C:\Users\acshe656\Documents\SY22-23\VB\Moonbucks Coffee Calc\Moonbucks Coffee Calc\obj\Debug\Moonbucks Coffee Calc.xml
+C:\Users\acshe656\Documents\SY22-23\VB\Moonbucks Coffee Calc\Moonbucks Coffee Calc\obj\Debug\Moonbucks Coffee Calc.pdb

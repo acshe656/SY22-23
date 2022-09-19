@@ -1,0 +1,13 @@
+C:\Users\acshe656\Documents\SY22-23\VB\Color Mixer\Color Mixer\bin\Debug\Color Mixer.exe.config
+C:\Users\acshe656\Documents\SY22-23\VB\Color Mixer\Color Mixer\bin\Debug\Color Mixer.exe
+C:\Users\acshe656\Documents\SY22-23\VB\Color Mixer\Color Mixer\bin\Debug\Color Mixer.pdb
+C:\Users\acshe656\Documents\SY22-23\VB\Color Mixer\Color Mixer\bin\Debug\Color Mixer.xml
+C:\Users\acshe656\Documents\SY22-23\VB\Color Mixer\Color Mixer\obj\Debug\Color Mixer.vbproj.AssemblyReference.cache
+C:\Users\acshe656\Documents\SY22-23\VB\Color Mixer\Color Mixer\obj\Debug\Color Mixer.vbproj.SuggestedBindingRedirects.cache
+C:\Users\acshe656\Documents\SY22-23\VB\Color Mixer\Color Mixer\obj\Debug\Color_Mixer.Form1.resources
+C:\Users\acshe656\Documents\SY22-23\VB\Color Mixer\Color Mixer\obj\Debug\Color_Mixer.Resources.resources
+C:\Users\acshe656\Documents\SY22-23\VB\Color Mixer\Color Mixer\obj\Debug\Color Mixer.vbproj.GenerateResource.cache
+C:\Users\acshe656\Documents\SY22-23\VB\Color Mixer\Color Mixer\obj\Debug\Color Mixer.vbproj.CoreCompileInputs.cache
+C:\Users\acshe656\Documents\SY22-23\VB\Color Mixer\Color Mixer\obj\Debug\Color Mixer.exe
+C:\Users\acshe656\Documents\SY22-23\VB\Color Mixer\Color Mixer\obj\Debug\Color Mixer.xml
+C:\Users\acshe656\Documents\SY22-23\VB\Color Mixer\Color Mixer\obj\Debug\Color Mixer.pdb
